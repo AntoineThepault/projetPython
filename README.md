@@ -1,4 +1,16 @@
 # projetPython
+---
+## English Summary
+
+Interactive Streamlit app to explore historical statistics of the French national football team (1904–2018):
+- global match statistics (wins, draws, losses)
+- goals scored and conceded over time
+- player statistics (caps, goals, assists)
+- filters and CSV export for further analysis.
+
+Built with Python, Pandas and Streamlit.
+
+*Project developed collaboratively with a classmate as part of our data analytics coursework.*
 
 # 🇫🇷 Statistiques Historiques de l'Équipe de France de Football ⚽
 
@@ -51,6 +63,7 @@ Pour les statistiques individuelles, les données sont issues de Wikipédia à l
 ## 📝 Auteurs
 
 Créé par : [Talib BATOU/btalib001, Antoine THEPAULT, AntoineThepault]
+
 
 
 
