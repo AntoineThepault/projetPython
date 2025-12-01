@@ -10,7 +10,7 @@ Interactive Streamlit app to explore historical statistics of the French nationa
 
 Built with Python, Pandas and Streamlit.
 
-*Project developed collaboratively with a classmate as part of our data analytics coursework.*
+*Project developed collaboratively with Talib BATOU/btalib001 as part of our data analytics coursework.*
 
 # 🇫🇷 Statistiques Historiques de l'Équipe de France de Football ⚽
 
@@ -63,6 +63,7 @@ Pour les statistiques individuelles, les données sont issues de Wikipédia à l
 ## 📝 Auteurs
 
 Créé par : [Talib BATOU/btalib001, Antoine THEPAULT, AntoineThepault]
+
 
 
 
